@@ -1,0 +1,21 @@
+body
+{
+ background-color: burlywood;
+ text-align: center;
+
+}
+
+#bio
+{
+ font-size: 25px;
+ margin: 25px;
+}
+
+img
+{
+ height: 250px;
+ width: 250px;
+ border-radius: 20px;
+ box-shadow: 10px 10px 10px black;
+ margin-bottom: 20px;
+}
